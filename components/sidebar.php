@@ -10,7 +10,7 @@
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
         
-        <img src="http://fametechnologies.in/assests/imgs/fametronix-logo.png" alt="" class="img-fluid" style="height:40px">
+        <img src="http://Testtechnologies.in/assests/imgs/Testtronix-logo.png" alt="" class="img-fluid" style="height:40px">
       </a>
 
       <!-- Divider -->
